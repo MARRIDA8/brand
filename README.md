@@ -6,7 +6,7 @@
 
 <br />
 
-(Also in a [white version](assets/icon-hite.svg))
+(Also in a [white version](assets/icon-white.svg))
 
 ## Logo
 
